@@ -22,7 +22,7 @@ Then, create test.c file and run it to get required output.
 
 Later, on the frequency of exits – does the number of exits increase at a stable rate? Or are there more exits performed during certain VM operations? Approximately how many exits does a full VM boot entail?
 
-Here, 5116977 number of exits are not stable and keeps changing. 
+Here, 5116977 no. of exits are not stable and keeps changing. 
 
 -> Of the exit types defined in the SDM, which are the most frequent? Least?
 

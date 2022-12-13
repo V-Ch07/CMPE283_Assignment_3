@@ -16,9 +16,9 @@ Late, use command "sudo make INSTALL_MOD_STRIP=1 modules_install".
 
 Then, Reboot the VM using a "sudo reboot"
 
-Later, open the Virtual Machine created using virtual manager.
+Later, open the Virtual Machine which has been created using virtual manager.
 
-Then, create test.c file and run it to get required output.
+Then, create test.c file and run it in order to get required output.
 
 Later, on the frequency of exits – does the number of exits increase at a stable rate? Or are there more exits performed during certain VM operations? Approximately how many exits does a full VM boot entail?
 
